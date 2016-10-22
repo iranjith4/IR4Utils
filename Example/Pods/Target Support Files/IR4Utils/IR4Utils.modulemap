@@ -1,0 +1,6 @@
+framework module IR4Utils {
+  umbrella header "IR4Utils-umbrella.h"
+
+  export *
+  module * { export * }
+}

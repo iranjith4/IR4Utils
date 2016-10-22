@@ -1,0 +1,22 @@
+PODS:
+  - IR4Utils (0.1.0)
+  - Nimble (3.2.0)
+  - Quick (0.10.0)
+
+DEPENDENCIES:
+  - IR4Utils (from `../`)
+  - Nimble (~> 3.0)
+  - Quick (~> 0.8)
+
+EXTERNAL SOURCES:
+  IR4Utils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IR4Utils: d2a723d52973f869573a8835f898691f9d398829
+  Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
+  Quick: 5d290df1c69d5ee2f0729956dcf0fd9a30447eaa
+
+PODFILE CHECKSUM: d1c061bf8950ea6db90b46a13844054e3dacbdcb
+
+COCOAPODS: 1.0.0.beta.8
