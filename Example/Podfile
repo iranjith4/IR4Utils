@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'IR4Utils_Example' do
+  pod 'IR4Utils', :path => '../'
+
+  target 'IR4Utils_Tests' do
+    inherit! :search_paths
+
+    pod 'Quick', '~> 0.8'
+  pod 'Nimble', '~> 3.0'
+  end
+end
